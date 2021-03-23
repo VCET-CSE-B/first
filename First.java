@@ -5,6 +5,7 @@ public class first
   { 
       String name;
       Scanner input=new Scanner(System.in);
+name=input;
       System.out.print(input);
   }
 }
